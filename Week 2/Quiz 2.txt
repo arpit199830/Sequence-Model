@@ -1,0 +1,25 @@
+1. False
+
+2. A non- linear dimesionally reduction technique.
+
+3. True
+
+4. boy - girl = brother - sister
+   boy - brother = girl - sister
+
+5. It is computationallly wasteful.
+
+6. True
+
+7. c and t are chosen to be nearby words.
+
+8. theta(t) and e(c) are both 500 dimensional vectors.
+   theta(t) and e(c) are both trained with an optimization algorithm such as Adam or gradient descent.
+
+9. θ_i and e_j should be initialized randomly at the beginning of training.
+
+   Xij is the number of times word j appears in the context of word i.
+
+   The weighting function f(.)f(.) must satisfy f(0) = 0f(0)=0.
+
+10. m1>>m2
